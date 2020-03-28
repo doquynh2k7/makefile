@@ -1,5 +1,5 @@
 /*
-example include file
+ Example include file
 */
 
 void myPrintHelloMake(void);
